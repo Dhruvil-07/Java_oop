@@ -55,6 +55,11 @@ import java.util.Scanner;
 
 6.) hollow  reactangle 
 
+*****
+*   *
+*   *
+*   *
+*****
 
  */
 
