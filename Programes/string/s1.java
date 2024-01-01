@@ -1,6 +1,9 @@
 // == check object rerfrence
 // equals() check contat of object
 
+//slice(start idx , end idx) , substring(strat idx , end idx)
+//replace(replace_string , actual string  )
+
 package string;
 
 class s1
